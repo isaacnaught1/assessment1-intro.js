@@ -206,7 +206,10 @@ for(let i = 0; i < colors.length; i++){
         -- git add "adds changes"
         -- git commit -m "message"// "takes new snapshot"
         -- git push "sends snapshot to git hub"
-    - How to push git to github 
+    - How to push git to github
+    git add .
+    git commit -m "message"
+    git push
 */
 
 let weather = "cold"
