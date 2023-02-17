@@ -209,3 +209,4 @@ for(let i = 0; i < colors.length; i++){
     - How to push git to github 
 */
 
+let weather = "cold"
